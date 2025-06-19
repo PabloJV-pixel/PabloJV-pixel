@@ -26,7 +26,7 @@ Hola, soy Pablo. Actualmente estoy aprendiendo C#, me gustaría enfocarme en el 
 
 ## 🖥️ Ejemplos de código y proyectos
 
-- [Proyecto Calculadora en HTML]([https://github.com/PabloJV-pixel/Calculadora-PHP](https://pablojv-pixel.github.io/calculadora-model1/))
+- [Proyecto Calculadora en HTML](https://pablojv-pixel.github.io/calculadora-model1/)
 
 ---
 
