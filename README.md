@@ -1,42 +1,49 @@
-<!-- Banner principal -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:92FE9D&height=120&section=header&text=¡Hola!%20Soy%20PabloJV-pixel&fontSize=35&fontColor=fff" />
+  <img src="./assets/banner.svg" alt="Portada - Data Science - PabloJV-Pixel" style="max-width:100%; border-radius:8px;" />
 </p>
 
----
+# PabloJV-Pixel / Data Science
 
-## 👋 Sobre mí
-
-Hola, soy Pablo. Actualmente estoy aprendiendo C#, me gustaría enfocarme en el desarrollo frontend, y en un futuro explorar el mundo de la ciberseguridad. Siempre busco mejorar y aprender nuevos lenguajes.
-
----
-
-## 🚀 Tecnologías y herramientas
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="60" height="60"/>
-</p>
+👋 Hola — Bienvenido a mi perfil.  
+👋 Hi — Welcome to my profile.
 
 ---
 
-## 🖥️ Ejemplos de código y proyectos
+## Español — Resumen
+Soy Pablo, enfocado en Ciencia de Datos. Actualmente aprendiendo Python, SQL, Git y Google Colab. Este repositorio será mi portafolio: aquí añadiré proyectos, notebooks y demos con visualizaciones y modelos.
 
-- [Proyecto Calculadora en HTML](https://pablojv-pixel.github.io/calculadora-model1/)
+- 🔭 Aprendiendo: Python · SQL · Git · Google Colab  
+- 🛠 Stack (actual): Python, pandas, NumPy, scikit-learn, matplotlib/seaborn, Google Colab  
+- 🌱 Buscando: proyectos para practicar pipelines y despliegue de modelos  
+- 📫 Contacto: [email@ejemplo.com](mailto:email@ejemplo.com) · [LinkedIn](https://linkedin.com/in/tu-perfil)
+
+Proyectos destacados (pronto estarán con demos y notebooks):
+- Forecast-ML — forecasting con modelos clásicos y ML
+- Visual-EDA — ejemplos de visualización interactiva
+- Recommender-Prototype — sistema básico de recomendaciones
 
 ---
 
-## 📬 Contacto
+## English — Summary
+I'm Pablo, focused on Data Science. Currently learning Python, SQL, Git and Google Colab. This repository is my portfolio: I will add projects, notebooks and demos with visualizations and models.
 
-- [LinkedIn](https://www.linkedin.com/in/pablo-vazquez-655005367/)
-- Discord: pablovazquez0477
-- Email: pablovazquez@alu.frp.utn.edu.ar  
-- Email alternativo: vaz.pablo49@gmail.com
+- 🔭 Currently learning: Python · SQL · Git · Google Colab  
+- 🛠 Current stack: Python, pandas, NumPy, scikit-learn, matplotlib/seaborn, Google Colab  
+- 🌱 Looking to build: end-to-end pipelines and model deployment examples  
+- 📫 Contact: [email@ejemplo.com](mailto:email@ejemplo.com) · [LinkedIn](https://linkedin.com/in/tu-perfil)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PabloJV-pixel&style=flat-square" alt="visitors"/>
-</p>
+Featured projects (coming soon):
+- Forecast-ML — forecasting with classical & ML models
+- Visual-EDA — interactive visualization examples
+- Recommender-Prototype — basic recommender system
+
+---
+
+## Notas importantes
+- Banner con paleta: verde lima (#A6FF00) sobre fondo gris/negro oscuro para look moderno y profesional.  
+- Foto de perfil: uso tu avatar de GitHub (aparece en el banner). Si preferís una versión PNG exportada o quieres que incluya una foto distinta, decímelo.  
+- Próximo paso: exportar PNG en tamaños 1200×360 (README banner) y 1280×640 (social preview). También puedo crear un avatar/logo SVG/PNG si querés.
+
+---
+
